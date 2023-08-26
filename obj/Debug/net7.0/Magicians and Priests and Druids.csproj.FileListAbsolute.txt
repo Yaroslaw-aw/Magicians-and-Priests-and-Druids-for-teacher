@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\bin\Debug\net7.0\Magicians and Priests and Druids.exe
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\bin\Debug\net7.0\Magicians and Priests and Druids.deps.json
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\bin\Debug\net7.0\Magicians and Priests and Druids.runtimeconfig.json
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\bin\Debug\net7.0\Magicians and Priests and Druids.dll
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\bin\Debug\net7.0\Magicians and Priests and Druids.pdb
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\obj\Debug\net7.0\Magicians and Priests and Druids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\obj\Debug\net7.0\Magicians and Priests and Druids.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\obj\Debug\net7.0\Magicians and Priests and Druids.AssemblyInfo.cs
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\obj\Debug\net7.0\Magicians and Priests and Druids.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\obj\Debug\net7.0\Magicians and Priests and Druids.dll
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\obj\Debug\net7.0\refint\Magicians and Priests and Druids.dll
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\obj\Debug\net7.0\Magicians and Priests and Druids.pdb
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\obj\Debug\net7.0\Magicians and Priests and Druids.genruntimeconfig.cache
+C:\Users\User\Desktop\Lessons Programming\ООП 2\Для преподавателя\Magicians and Priests and Druids\obj\Debug\net7.0\ref\Magicians and Priests and Druids.dll
