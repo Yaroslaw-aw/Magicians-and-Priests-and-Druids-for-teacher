@@ -1,2 +1,2 @@
 # Magicians and Priests and Druids
-## Вопрос попытался описать в комментариях файле Program.cs
+## Вопрос попытался описать в комментариях в файле Program.cs
