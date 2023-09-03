@@ -31,9 +31,18 @@
         public BaseHero()
         : this("") { }
 
-        public void Healed(int Hp)
+        protected internal void Healed(int Hp)
         {
             this.hp = Hp + this.hp > maxHp ? maxHp : Hp + this.hp;
+        }
+
+         protected internal void GetDamage(int damage)
+        {
+            if (this.hp - damage > 0)
+            {
+                this.hp -= damage;
+            }
+            // else { die; }
         }
 
         ConsoleColor Colored(int hp)
@@ -60,13 +69,6 @@
             Console.Write($"  Type: {this.GetType().Name}  ");
         }
 
-        public void GetDamage(int damage)
-        {
-            if (this.hp - damage > 0)
-            {
-                this.hp -= damage;
-            }
-            // else { die; }
-        }
+       
     }
 }
