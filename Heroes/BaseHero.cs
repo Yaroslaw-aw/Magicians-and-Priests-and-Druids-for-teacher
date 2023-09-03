@@ -60,9 +60,9 @@
         }
 
         public virtual void GetInfo()
-        {
-            ConsoleColor color = Colored(this.hp);
+        {            
             Console.Write($"Name: {this.name}");
+            ConsoleColor color = Colored(this.hp);
             Console.ForegroundColor = color;
             Console.Write($"  Hp: {this.hp}");
             Console.ResetColor();
